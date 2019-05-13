@@ -27,3 +27,15 @@ array_filter(array $input[, callable $callback]): array
  */
 shuffle(array &$input): array
 ```
+
+About String
+--
+
+``` php
+/**
+ * 二进制安全比较字符串(区分大小写)
+ * 配套的 strcasecmp 不区分大小写
+ * 二进制安全: 以原始二进制处理字符串, 不使用额外的字符串判断字符串(主要指结尾null或结尾字符\0)
+ */
+strcmp(string $str1, string $str2): int
+```

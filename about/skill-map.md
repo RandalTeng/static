@@ -7,7 +7,7 @@ Bankend
 ``` text
 VeryGoodAt: PHP, MySQL, Redis, Composer, Docker, DesignPatterns, Yii2  
 GoodAt: Queue, ElasticSearch  
-KnowAbout: GoLang, Java, SpringMVC, MongoDB, ThinkPHP, Laraval
+KnowAbout: GoLang, Java, SpringMVC, MongoDB, ThinkPHP, Laravel
 ```
 
 Frontend
