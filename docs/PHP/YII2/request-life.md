@@ -12,4 +12,4 @@ Yii2 Request Life
 ```
 
 PS: 请求生命周期图(来源: [筑梦悠然](https://blog.csdn.net/wuhuagu_wuhuaguo/article/details/80637277))  
-![Yii2请求生命周期结构图](https://github.com/RandalTeng/static-page/tree/master/assets/images/public/yii2-request-life.png)
+![Yii2请求生命周期结构图](https://github.com/RandalTeng/static-page/blob/master/assets/images/public/yii2-request-life.png)
