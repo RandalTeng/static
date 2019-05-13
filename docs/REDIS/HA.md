@@ -4,9 +4,9 @@ High Available
 Redis Cluster
 --
 
-> Redis自带集群配置
-> Master-Slave自带主从配置
-> Sentinel哨兵机制(集群监控/消息通知/故障转移/配置中心)
+> Redis自带集群配置  
+> Master-Slave自带主从配置  
+> Sentinel哨兵机制(集群监控/消息通知/故障转移/配置中心)  
 > RDB/AOF持久化
 
 Sentinel相关配置:

@@ -5,10 +5,8 @@ Bankend
 --
 
 ``` text
-VeryGoodAt: PHP, MySQL, Redis, Composer, Docker, DesignPatterns, Yii2
-
-GoodAt: Queue, ElasticSearch
-
+VeryGoodAt: PHP, MySQL, Redis, Composer, Docker, DesignPatterns, Yii2  
+GoodAt: Queue, ElasticSearch  
 KnowAbout: GoLang, Java, SpringMVC, MongoDB, ThinkPHP, Laraval
 ```
 
@@ -16,10 +14,8 @@ Frontend
 --
 
 ``` text
-VeryGoodAt: JavaScript, HTML
-
-GoodAt: ES6, CSS, jQuery, Electron
-
+VeryGoodAt: JavaScript, HTML  
+GoodAt: ES6, CSS, jQuery, Electron  
 KnowAbout: HTML5, CSS3, React, Vue
 ```
 
