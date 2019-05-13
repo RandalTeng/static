@@ -21,7 +21,6 @@
 >> [PHP](https://github.com/RandalTeng/static-page/tree/master/docs/PHP)  
 >>> [PHP-CS](https://github.com/RandalTeng/static-page/tree/master/docs/PHP/PHP-CS)  
 >>>> [class.md](https://github.com/RandalTeng/static-page/tree/master/docs/PHP/PHP-CS/class.md)  
->>>> [php-fig-psr2.md](https://github.com/RandalTeng/static-page/tree/master/docs/PHP/PHP-CS/php-fig-psr2.md)
 >>>
 >>> [YII2](https://github.com/RandalTeng/static-page/tree/master/docs/PHP/YII2)
 >>>> [request-life.md](https://github.com/RandalTeng/static-page/tree/master/docs/PHP/YII2/request-life.md)
@@ -42,3 +41,7 @@
 ## SUPPORTED
 
 GitHub Static Pages.
+
+PS:
+wait to add:
+`>>>> [php-fig-psr2.md](https://github.com/RandalTeng/static-page/tree/master/docs/PHP/PHP-CS/php-fig-psr2.md)`
