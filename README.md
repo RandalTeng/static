@@ -14,7 +14,7 @@
 >
 > [docs](https://github.com/RandalTeng/static-page/tree/master/docs)  
 >> [DATABASE](https://github.com/RandalTeng/static-page/tree/master/docs/DATABASE)  
->>> [DATABASE](https://github.com/RandalTeng/static-page/tree/master/docs/DATABASE/MYSQL)  
+>>> [MYSQL](https://github.com/RandalTeng/static-page/tree/master/docs/DATABASE/MYSQL)  
 >>>> [engine.md](https://github.com/RandalTeng/static-page/tree/master/docs/DATABASE/MYSQL/engine.md)  
 >>>> [indexes.md](https://github.com/RandalTeng/static-page/tree/master/docs/DATABASE/MYSQL/indexes.md)
 >>
