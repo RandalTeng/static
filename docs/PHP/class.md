@@ -35,7 +35,7 @@ var_dump($obj);
 > LSP 里式替换原则  
 > LoD 迪米特法则/最少知道法则  
 > ISP 接口分离原则  
-> DIP 依赖导致原则/控制反转(IoC) 
+> DIP 依赖导致原则/控制反转(IoC)
 
 PS: 原则来源[knightsj](https://knightsj.github.io/2018/09/10/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/)
 
@@ -51,7 +51,7 @@ PS: 原则来源[knightsj](https://knightsj.github.io/2018/09/10/%E9%9D%A2%E5%90
 面向切片(切面)设计
 --
 
-> 这种在运行时，动态地将代码切入到类的指定方法、指定位置上的编程思想就是面向切面的编程。  
+> 这种在运行时, 动态地将代码切入到类的指定方法、指定位置上的编程思想就是面向切面的编程。  
 > 个人总结: 基层是对象, 对象遇到一个动作, 附加一个动作, 类似Yii2的behaviors, Events, Laravel的hook  
 > 也即是监听者模式, 代理模式等的实现
 
