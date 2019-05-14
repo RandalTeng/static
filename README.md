@@ -38,6 +38,18 @@
 
 `waiting to complete...`
 
+> 如有任何错误, 烦请指出;  
+> Any errors in the article.  
+>
+> 如有任何版权问题, 需要添加来源或删除内容, 请联系我;  
+> If there are any articles has any problem with copyright.  
+>
+> 提交Issue, 或者邮件 teng950916@gmail.com  
+> Submit an issue or contact me with my email. Thank you very much.  
+>
+> 本Repo文章原创内容不允许任何形式的转载, 个人博客, 且行且珍惜  
+> The origin content of this Repo is forbidden to fork or reprint.
+
 ## SUPPORTED
 
 GitHub Static Pages.
