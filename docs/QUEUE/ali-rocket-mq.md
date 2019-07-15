@@ -18,4 +18,4 @@ PS2: 整的本来不用加班上线的功能, 整到晚上10点多才正式上�
 
 > PS3: 还有一个就是关于Yii2守护进程, "MySQL server gone" 的问题  
 > 这个只要在执行消费者程序前, 调用一下相关的 `db ping`(`SELECT 1`) 就完事了  
-> 详细的在 [mysql-connect-gone.md](https://github.com/RandalTeng/static-page/tree/master/php/mysql-connect-gone.md)
+> 详细的在 [mysql-connect-gone.md](https://github.com/RandalTeng/static-page/tree/master/docs/PHP/mysql-connect-gone.md)
